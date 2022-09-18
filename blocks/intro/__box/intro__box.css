@@ -1,0 +1,9 @@
+.intro__box {
+  max-width: 690px;
+  height: auto;
+}
+@media screen and (max-width: 1023px) {
+  .intro__box {
+    max-width: 720px;
+  }
+}
