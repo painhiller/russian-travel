@@ -40,5 +40,6 @@
       "place__paragraphs";
     grid-template-columns: minmax(320px, 1fr);
     margin-top: 50px;
+    gap: 32px;
   }
 }
